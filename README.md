@@ -1,28 +1,4 @@
-# 计算机视觉(本科)作业报告
-
-作业名称：Canny Edge Detection
-
-姓名：胡越
-
-学号：3210104668
-
-电子邮箱：3210104668@zju.edu.cn
-
-联系电话：13989487526
-
-老师：潘纲
-
-日期：2023 年 11 月 26 日
-
-个人照片：
-
-![大二寸证件照](report-template_imgs/大二寸证件照.jpg)
-
-<div STYLE="page-break-after: always;"></div>
-
-
-
-# HW5 Learning CNN++
+# Pokemon Classification
 
 
 
